@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monther ALsalem</h1>
 <h3 align="center">A passionate frontend developer from Jordan</h3>
 
-- 🌱 I’m currently learning **AI engennering**
+- 🌱 I’m currently learning **AI Engineering**
 
 - 💬 Ask me about **AI**
 
